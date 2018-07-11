@@ -17,6 +17,6 @@ git add .
 git commit -m "${PUSH_TIME}"
 git push origin ${git_branch}
 
-echo "package success"
+echo "push remote master success"
 echo "==============================================================="
 exit 0
