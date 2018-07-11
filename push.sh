@@ -2,7 +2,7 @@
 
 echo "push start..."
 workspace_dir=/Users/biguodong/Documents/workspace/management/
-PUSH_TIME=`date +%s`
+PUSH_TIME=`date +%Y-%m-%d`
 git_url=https://github.com/JellyB/Schedule.git
 project_name=Schedule
 git_branch=master
